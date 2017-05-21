@@ -31,6 +31,9 @@ Changes and improvements are more than welcome! Feel free to fork and open a pul
 
 You can find the same information in the [contributing guide.](https://github.com/gabrielecirulli/2048/blob/master/CONTRIBUTING.md)
 
+## Bug Reporting / Documentation
+This project recently has adopted a forum to record and post bugs and any documentation that contributers may find value in bringing attention to. The forum can be located [here.](http://2048development.freeforums.net/)
+
 ## License
 2048 is licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)
 
