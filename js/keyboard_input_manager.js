@@ -51,6 +51,7 @@ KeyboardInputManager.prototype.listen = function () {
     100: 3, //4 num pad
     102: 1, //6 num pad
     98: 2, //2 num pad
+    //added num pad support for people more comfortable with using those keys
   };
 
   // Respond to direction keys
